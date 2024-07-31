@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<img align="center" height="170" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0WqlpuAqWPGihNLovDuJ6J&ust=1722517196251000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKje496q0YcDFQAAAAAdAAAAABAE"/>
+<img align="center" height="170" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHEzeHliNzA4eGZmY2p0OG5wdmZmbThjdmZhYzFmdHNjMGM3aXRibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif"/>
  
 
 
@@ -57,19 +57,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@flutterhero" target="_blank">
+  <a href="https://www.youtube.com/@CodeMasti27" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/flutterheroyt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/invite/GUw8DpzJwz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:Nitishr833@gmail.com" target="_blank">
+  <a href="mailto:rb6764385@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mrnitishkumar/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahulbera/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -78,8 +72,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MrNitishroy/MrNitishroy/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrNitishroy.MrNitishroy&"  />
